@@ -1,0 +1,74 @@
+{"Interstellar":{
+    "country":["US","UK"],
+    "director":"Christopher Nolan",
+    "producer":["Emma Thomas","Christopher Nolan","Lynda Obst"],
+    "production-companies":["Paramount Pictures","Warner Bros. Pictures"],
+    "release-date":{"China":"October 26, 2014","Russia":"November 6, 2014","UK":"November 7, 2014","US":"November 5, 2014"},
+    "starring": {
+      "Matthew McConaughey": "Cooper",
+      "Anne Hathaway": "Brand",
+      "Jessica Chastain": "Murph"
+    },
+    "written-by":["Jonathan Nolan","Christopher Nolan"]},
+  "The Green Mile":{
+    "country":"US",
+    "director":"Frank Darabont",
+    "producer":["Frank Darabont","David Valdes"],
+    "production-companies":["Castle Rock Entertainment","Darkwoods Productions","PolyGram Filmed Entertainment"],
+    "release-date":"December 10, 1999",
+    "starring": {
+      "Tom Hanks": "Paul Edgecomb",
+      "David Morse": "Brutus Brutal Howell",
+      "Bonnie Hunt": "Jan Edgecomb"
+    },
+    "written-by":"Frank Darabont"},
+  "The Lord of the Rings: The Return of the King":{
+    "country":["New Zealand","US"],
+    "director":"Peter Jackson",
+    "producer":["Barrie M. Osborne","Peter Jackson","Fran Walsh"],
+    "production-companies":["New Line Cinema","WingNut Films"],
+    "release-date":"1 December 2003",
+    "starring":{
+      "Elijah Wood": "Frodo",
+      "Ian McKellen": "Gandalf",
+      "Liv Tyler": "Arwen",
+      "Viggo Mortensen": "Aragorn",
+      "Sean Astin": "Sam",
+      "Cate Blanchett": "Galadriel",
+      "John Rhys-Davies": "Gimli",
+      "Bernard Hill": "Theoden",
+      "Orlando Bloom": "Legolas"
+    },
+    "written-by":["Fran Walsh","Philippa Boyens","Peter Jackson"]},
+  "The Lord of the Rings: The Two Towers":{
+    "country":["New Zealand","US"],
+    "director":"Peter Jackson",
+    "producer":["Barrie M. Osborne","Peter Jackson","Fran Walsh"],
+    "production-companies":["New Line Cinema","WingNut Films"],
+    "release-date":"5 December 2002",
+    "starring": {
+      "Elijah Wood": "Frodo",
+      "Ian McKellen": "Gandalf",
+      "Liv Tyler": "Arwen",
+      "Viggo Mortensen": "Aragorn",
+      "Sean Astin": "Sam",
+      "Cate Blanchett": "Galadriel",
+      "John Rhys-Davies": "Gimli",
+      "Bernard Hill": "Theoden",
+      "Orlando Bloom": "Legolas"
+    },
+    "written-by":["Fran Walsh","Philippa Boyens","Peter Jackson","Stephen Sinclair"]},
+  "The Shawshank Redemption":{
+    "country":"US",
+    "director":"Frank Darabont",
+    "producer":"Niki Marvin",
+    "production-companies":"Castle Rock Entertainment",
+    "release-date":"September 10, 1994",
+    "starring": {
+      "Tim Robbins": "Andy Dufresne",
+      "Morgan Freeman": "Ellis Boyd Red Redding",
+      "Bob Gunton": "Warden Norton",
+      "William Sadler": "Heywood"
+    },
+    "written-by":"Frank Darabont"}
+}
